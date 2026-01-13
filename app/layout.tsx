@@ -4,7 +4,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
   title: 'Next.js Fullstack App!!!',
-  description: 'A Next.js application with frontend UI and backend API',
+  description: 'A Next.js application with frontend UI and backend API!!!',
 }
 
 export default function RootLayout({
