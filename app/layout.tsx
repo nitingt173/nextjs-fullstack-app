@@ -3,7 +3,7 @@ import './globals.css'
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
-  title: 'Next.js Fullstack App!!! TEST',
+  title: 'Next.js Fullstack App!!!',
   description: 'A Next.js application with frontend UI and backend API!!!',
 }
 
